@@ -1,6 +1,6 @@
 
 # What is cdda_migr?
-A tool to ease the installation of the latest experimental version and the migration of your settings and saves.
+A tool for linux users to ease the installation of the latest experimental version of Cataclysm Dark Days Ahead and the migration of your settings and saves.
 # How do I use it?
 - First, install manually an experimental version. 
 - Rename the directory so that it matches:  `cataclysmdda-0.E-10872` (the number at the end is the version you are installing).
